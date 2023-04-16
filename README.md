@@ -1,1 +1,1 @@
-# Comp3516_group
+# Comp3516_group08 Floor Pressure sensing
