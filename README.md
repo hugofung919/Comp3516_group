@@ -7,9 +7,21 @@ Hui Lam, POON, 3035801415, u3580141@connect.hku.hk
 Ho Yin, LAI, 3035801570, hoyinleo@connect.hku.hk  
 King Hung, FUNG, 3035695153, hugofung@hku.hk  
 
+# Workflow:  
+## 1) Data Collection & data set  
+- Collect Barometer data from the "phyphox" app.
+- 
+
+## 2) 
 
 
-Data Collection: Collected Barometer data from the "phyphox" app.
+
+
+
+
+
+
+Data Collection: 
 
 Data Pre-processing: Eliminate any outliers or erroneous data points from the collected
 barometer data.
