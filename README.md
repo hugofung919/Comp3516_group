@@ -2,10 +2,12 @@
 
 HK is a 3D city. However, it is non-trivial to know which floor one is even with the help of GPS (GPS is relatively poor in determining the altitude compared with longitude and latitude). Modern phones are equipped with various sensors, including barometers that can detect altitude changes at a reasonable accuracy. Can you design a solution for locating which floor a user is (through barometers, perhaps with the help of other available sensors)?
 
-Team members:
-Hui Lam, POON, 3035801415, u3580141@connect.hku.hk
-Ho Yin, LAI, 3035801570, hoyinleo@connect.hku.hk
-King Hung, FUNG, 3035695153, hugofung@hku.hk
+Team members:  
+Hui Lam, POON, 3035801415, u3580141@connect.hku.hk  
+Ho Yin, LAI, 3035801570, hoyinleo@connect.hku.hk  
+King Hung, FUNG, 3035695153, hugofung@hku.hk  
+
+
 
 Data Collection: Collected Barometer data from the "phyphox" app.
 
