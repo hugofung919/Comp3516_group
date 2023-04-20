@@ -1,18 +1,25 @@
 # Comp3516_group08 Floor Pressure sensing
-
-HK is a 3D city. However, it is non-trivial to know which floor one is even with the help of GPS (GPS is relatively poor in determining the altitude compared with longitude and latitude). Modern phones are equipped with various sensors, including barometers that can detect altitude changes at a reasonable accuracy. Can you design a solution for locating which floor a user is (through barometers, perhaps with the help of other available sensors)?
-
-Team members:  
+## Team members:  
 Hui Lam, POON, 3035801415, u3580141@connect.hku.hk  
 Ho Yin, LAI, 3035801570, hoyinleo@connect.hku.hk  
 King Hung, FUNG, 3035695153, hugofung@hku.hk  
 
-# Workflow:  
-## 1) Data Collection & data set  
+# Problem complication:
+## Project 
+HK is a 3D city. However, it is non-trivial to know which floor one is even with the help of GPS (GPS is relatively poor in determining the altitude compared with longitude and latitude). Modern phones are equipped with various sensors, including barometers that can detect altitude changes at a reasonable accuracy. Can you design a solution for locating which floor a user is (through barometers, perhaps with the help of other available sensors)?
+
+### Indroduction of Indoor positionion
+
+### Limitations of GPS
+Global positioning systems (GPS) have become indispensable technology in modern society. GPS is a radio wave receiver used to provide coordinates that give the exact position of an element in a certain space. (https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/global-positioning-system) However, it is not suitable for indoor positioning. The radio wave of GPS can be easily blocked by different obstacles such as roofs, walls, etc. No line-of-sight to the satellite
+
+## Workflow:  
+### 1) Data Collection & data set  
 - Collect Barometer data from the "phyphox" app.
 - 
 
-## 2) 
+# Technical solution
+## 2) Data coll
 
 
 
